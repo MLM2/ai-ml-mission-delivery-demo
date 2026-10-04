@@ -1,0 +1,321 @@
+request_id,program,description,category
+REQ-0168,Program Alpha,Review confusion matrix results from the latest experiment during a planned update,Model Evaluation
+REQ-0231,Program Alpha,Assess training data quality and possible model bias for a new customer request,Model Evaluation
+REQ-0026,Program Bravo,Validate JSON payloads sent through an integration endpoint before the next milestone,Data Integration
+REQ-0064,Program Alpha,Configure a connector to transfer application data during a planned update,Data Integration
+REQ-0010,Program Bravo,Reconcile duplicate records in a data warehouse for a new customer request,Data Integration
+REQ-0111,Program Charlie,Evaluate encryption requirements for stored records as part of an integration effort,Security Review
+REQ-0187,Program Charlie,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0144,Program Charlie,Evaluate encryption requirements for stored records before the next milestone,Security Review
+REQ-0245,Program Charlie,Coordinate release scheduling across technical teams after a technical review,Deployment Support
+REQ-0225,Program Bravo,Investigate model drift in recent predictions during a planned update,Model Evaluation
+REQ-0091,Program Alpha,Assess authentication requirements for a new interface before the next milestone,Security Review
+REQ-0077,Program Bravo,Reconcile duplicate records in a data warehouse after a technical review,Data Integration
+REQ-0083,Program Bravo,Investigate an audit logging configuration gap during a planned update,Security Review
+REQ-0241,Program Charlie,Review production monitoring alerts after deployment after a technical review,Deployment Support
+REQ-0173,Program Bravo,Evaluate classifier precision and recall on test data during a planned update,Model Evaluation
+REQ-0120,Program Alpha,Review access control requirements for an application for a new customer request,Security Review
+REQ-0203,Program Bravo,Review confusion matrix results from the latest experiment during a planned update,Model Evaluation
+REQ-0078,Program Alpha,Build an API interface for exchanging database records during a planned update,Data Integration
+REQ-0056,Program Charlie,Investigate data mapping issues between source systems during a planned update,Data Integration
+REQ-0105,Program Bravo,Assess identity permissions for a protected data service during a planned update,Security Review
+REQ-0204,Program Alpha,Validate an experiment against acceptance criteria for a new customer request,Model Evaluation
+REQ-0212,Program Alpha,Review confusion matrix results from the latest experiment before the next milestone,Model Evaluation
+REQ-0199,Program Charlie,Review confusion matrix results from the latest experiment as part of an integration effort,Model Evaluation
+REQ-0140,Program Bravo,Investigate an audit logging configuration gap after a technical review,Security Review
+REQ-0043,Program Bravo,Configure a connector to transfer application data as part of an integration effort,Data Integration
+REQ-0214,Program Charlie,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0298,Program Charlie,Coordinate release scheduling across technical teams for a new customer request,Deployment Support
+REQ-0034,Program Bravo,Configure a connector to transfer application data before the next milestone,Data Integration
+REQ-0074,Program Bravo,Configure a connector to transfer application data before the next milestone,Data Integration
+REQ-0184,Program Alpha,Investigate machine learning model prediction errors for a new customer request,Model Evaluation
+REQ-0076,Program Bravo,Investigate data mapping issues between source systems after a technical review,Data Integration
+REQ-0006,Program Charlie,Validate JSON payloads sent through an integration endpoint before the next milestone,Data Integration
+REQ-0169,Program Charlie,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0158,Program Charlie,Prepare security evidence for an accreditation review before the next milestone,Security Review
+REQ-0301,Program Alpha,Prepare an operational handoff checklist as part of an integration effort,Deployment Support
+REQ-0079,Program Alpha,Reconcile duplicate records in a data warehouse for a new customer request,Data Integration
+REQ-0177,Program Charlie,Review confusion matrix results from the latest experiment after a technical review,Model Evaluation
+REQ-0285,Program Charlie,Investigate an application failure after release for a new customer request,Deployment Support
+REQ-0223,Program Charlie,Evaluate classifier precision and recall on test data for a new customer request,Model Evaluation
+REQ-0085,Program Alpha,Review access control requirements for an application during a planned update,Security Review
+REQ-0008,Program Bravo,Reconcile duplicate records in a data warehouse before the next milestone,Data Integration
+REQ-0194,Program Bravo,Assess training data quality and possible model bias after a technical review,Model Evaluation
+REQ-0286,Program Alpha,Validate container deployment readiness after a technical review,Deployment Support
+REQ-0282,Program Alpha,Review production monitoring alerts after deployment after a technical review,Deployment Support
+REQ-0047,Program Charlie,Configure a connector to transfer application data during a planned update,Data Integration
+REQ-0004,Program Bravo,Investigate data mapping issues between source systems as part of an integration effort,Data Integration
+REQ-0261,Program Alpha,Coordinate release scheduling across technical teams before the next milestone,Deployment Support
+REQ-0195,Program Alpha,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0227,Program Charlie,Investigate model drift in recent predictions after a technical review,Model Evaluation
+REQ-0178,Program Charlie,Investigate model drift in recent predictions after a technical review,Model Evaluation
+REQ-0058,Program Charlie,Connect an application to a relational database before the next milestone,Data Integration
+REQ-0095,Program Charlie,Document security controls for authorization review during a planned update,Security Review
+REQ-0290,Program Charlie,Coordinate a software release into the test environment after a technical review,Deployment Support
+REQ-0046,Program Alpha,Resolve a data ingestion failure in the pipeline after a technical review,Data Integration
+REQ-0018,Program Alpha,Validate JSON payloads sent through an integration endpoint during a planned update,Data Integration
+REQ-0186,Program Alpha,Investigate machine learning model prediction errors before the next milestone,Model Evaluation
+REQ-0269,Program Bravo,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0061,Program Charlie,Reconcile duplicate records in a data warehouse before the next milestone,Data Integration
+REQ-0025,Program Charlie,Connect an application to a relational database as part of an integration effort,Data Integration
+REQ-0115,Program Bravo,Document security controls for authorization review for a new customer request,Security Review
+REQ-0211,Program Alpha,Compare candidate models using F1 scores before the next milestone,Model Evaluation
+REQ-0149,Program Alpha,Investigate an audit logging configuration gap for a new customer request,Security Review
+REQ-0310,Program Alpha,Resolve an environment configuration issue before rollout during a planned update,Deployment Support
+REQ-0259,Program Bravo,Coordinate a software release into the test environment as part of an integration effort,Deployment Support
+REQ-0133,Program Alpha,Document security controls for authorization review after a technical review,Security Review
+REQ-0318,Program Bravo,Resolve an environment configuration issue before rollout before the next milestone,Deployment Support
+REQ-0235,Program Alpha,Review false positive and false negative predictions for a new customer request,Model Evaluation
+REQ-0313,Program Alpha,Prepare a deployment rollback plan before the next milestone,Deployment Support
+REQ-0233,Program Charlie,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0125,Program Alpha,Document security controls for authorization review as part of an integration effort,Security Review
+REQ-0102,Program Bravo,Review least privilege settings for service accounts before the next milestone,Security Review
+REQ-0110,Program Charlie,Document security controls for authorization review after a technical review,Security Review
+REQ-0255,Program Alpha,Investigate an application failure after release for a new customer request,Deployment Support
+REQ-0159,Program Charlie,Evaluate encryption requirements for stored records after a technical review,Security Review
+REQ-0281,Program Charlie,Review production monitoring alerts after deployment for a new customer request,Deployment Support
+REQ-0032,Program Charlie,Document schema changes for an external data feed before the next milestone,Data Integration
+REQ-0263,Program Bravo,Prepare a deployment rollback plan after a technical review,Deployment Support
+REQ-0196,Program Bravo,Assess training data quality and possible model bias after a technical review,Model Evaluation
+REQ-0147,Program Charlie,Review least privilege settings for service accounts after a technical review,Security Review
+REQ-0219,Program Charlie,Validate an experiment against acceptance criteria after a technical review,Model Evaluation
+REQ-0094,Program Bravo,Review access control requirements for an application as part of an integration effort,Security Review
+REQ-0138,Program Bravo,Assess authentication requirements for a new interface for a new customer request,Security Review
+REQ-0060,Program Charlie,Resolve a data ingestion failure in the pipeline as part of an integration effort,Data Integration
+REQ-0117,Program Bravo,Evaluate encryption requirements for stored records as part of an integration effort,Security Review
+REQ-0007,Program Alpha,Build an API interface for exchanging database records as part of an integration effort,Data Integration
+REQ-0197,Program Bravo,Evaluate classifier precision and recall on test data after a technical review,Model Evaluation
+REQ-0031,Program Charlie,Validate JSON payloads sent through an integration endpoint as part of an integration effort,Data Integration
+REQ-0023,Program Charlie,Document schema changes for an external data feed before the next milestone,Data Integration
+REQ-0273,Program Charlie,Review production monitoring alerts after deployment for a new customer request,Deployment Support
+REQ-0289,Program Alpha,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0057,Program Charlie,Configure a connector to transfer application data during a planned update,Data Integration
+REQ-0166,Program Alpha,Investigate model drift in recent predictions during a planned update,Model Evaluation
+REQ-0119,Program Alpha,Prepare security evidence for an accreditation review for a new customer request,Security Review
+REQ-0205,Program Bravo,Review false positive and false negative predictions for a new customer request,Model Evaluation
+REQ-0082,Program Bravo,Document security controls for authorization review for a new customer request,Security Review
+REQ-0146,Program Charlie,Prepare security evidence for an accreditation review for a new customer request,Security Review
+REQ-0040,Program Charlie,Connect an application to a relational database before the next milestone,Data Integration
+REQ-0220,Program Charlie,Compare candidate models using F1 scores during a planned update,Model Evaluation
+REQ-0148,Program Charlie,Assess identity permissions for a protected data service after a technical review,Security Review
+REQ-0182,Program Bravo,Assess training data quality and possible model bias as part of an integration effort,Model Evaluation
+REQ-0316,Program Charlie,Validate container deployment readiness as part of an integration effort,Deployment Support
+REQ-0109,Program Bravo,Investigate an audit logging configuration gap for a new customer request,Security Review
+REQ-0270,Program Charlie,Prepare an operational handoff checklist for a new customer request,Deployment Support
+REQ-0067,Program Alpha,Validate JSON payloads sent through an integration endpoint as part of an integration effort,Data Integration
+REQ-0198,Program Bravo,Validate an experiment against acceptance criteria before the next milestone,Model Evaluation
+REQ-0019,Program Alpha,Validate JSON payloads sent through an integration endpoint for a new customer request,Data Integration
+REQ-0185,Program Bravo,Assess training data quality and possible model bias for a new customer request,Model Evaluation
+REQ-0114,Program Charlie,Assess identity permissions for a protected data service during a planned update,Security Review
+REQ-0020,Program Bravo,Validate JSON payloads sent through an integration endpoint during a planned update,Data Integration
+REQ-0183,Program Bravo,Compare candidate models using F1 scores for a new customer request,Model Evaluation
+REQ-0093,Program Alpha,Review access control requirements for an application for a new customer request,Security Review
+REQ-0080,Program Alpha,Validate JSON payloads sent through an integration endpoint before the next milestone,Data Integration
+REQ-0221,Program Charlie,Compare candidate models using F1 scores during a planned update,Model Evaluation
+REQ-0153,Program Charlie,Review least privilege settings for service accounts during a planned update,Security Review
+REQ-0073,Program Charlie,Connect an application to a relational database as part of an integration effort,Data Integration
+REQ-0097,Program Bravo,Assess identity permissions for a protected data service before the next milestone,Security Review
+REQ-0016,Program Charlie,Reconcile duplicate records in a data warehouse during a planned update,Data Integration
+REQ-0112,Program Bravo,Review access control requirements for an application as part of an integration effort,Security Review
+REQ-0011,Program Bravo,Connect an application to a relational database before the next milestone,Data Integration
+REQ-0181,Program Charlie,Assess training data quality and possible model bias before the next milestone,Model Evaluation
+REQ-0070,Program Alpha,Build an API interface for exchanging database records for a new customer request,Data Integration
+REQ-0098,Program Alpha,Assess identity permissions for a protected data service as part of an integration effort,Security Review
+REQ-0302,Program Bravo,Resolve an environment configuration issue before rollout during a planned update,Deployment Support
+REQ-0069,Program Alpha,Build an API interface for exchanging database records before the next milestone,Data Integration
+REQ-0256,Program Alpha,Investigate an application failure after release for a new customer request,Deployment Support
+REQ-0038,Program Bravo,Connect an application to a relational database as part of an integration effort,Data Integration
+REQ-0127,Program Alpha,Document security controls for authorization review after a technical review,Security Review
+REQ-0017,Program Bravo,Resolve a data ingestion failure in the pipeline as part of an integration effort,Data Integration
+REQ-0229,Program Charlie,Assess training data quality and possible model bias as part of an integration effort,Model Evaluation
+REQ-0068,Program Charlie,Build an API interface for exchanging database records during a planned update,Data Integration
+REQ-0257,Program Bravo,Coordinate a software release into the test environment as part of an integration effort,Deployment Support
+REQ-0248,Program Bravo,Resolve an environment configuration issue before rollout for a new customer request,Deployment Support
+REQ-0126,Program Charlie,Review least privilege settings for service accounts as part of an integration effort,Security Review
+REQ-0165,Program Charlie,Investigate machine learning model prediction errors for a new customer request,Model Evaluation
+REQ-0087,Program Bravo,Assess authentication requirements for a new interface before the next milestone,Security Review
+REQ-0305,Program Alpha,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0145,Program Alpha,Evaluate encryption requirements for stored records during a planned update,Security Review
+REQ-0272,Program Charlie,Prepare a deployment rollback plan before the next milestone,Deployment Support
+REQ-0141,Program Bravo,Evaluate encryption requirements for stored records during a planned update,Security Review
+REQ-0234,Program Alpha,Validate an experiment against acceptance criteria for a new customer request,Model Evaluation
+REQ-0300,Program Bravo,Prepare an operational handoff checklist after a technical review,Deployment Support
+REQ-0209,Program Charlie,Investigate model drift in recent predictions before the next milestone,Model Evaluation
+REQ-0307,Program Alpha,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0207,Program Bravo,Assess training data quality and possible model bias during a planned update,Model Evaluation
+REQ-0130,Program Bravo,Investigate an audit logging configuration gap during a planned update,Security Review
+REQ-0039,Program Alpha,Investigate data mapping issues between source systems during a planned update,Data Integration
+REQ-0222,Program Alpha,Assess training data quality and possible model bias as part of an integration effort,Model Evaluation
+REQ-0304,Program Alpha,Prepare an operational handoff checklist as part of an integration effort,Deployment Support
+REQ-0156,Program Alpha,Evaluate encryption requirements for stored records as part of an integration effort,Security Review
+REQ-0113,Program Bravo,Assess identity permissions for a protected data service before the next milestone,Security Review
+REQ-0268,Program Bravo,Review production monitoring alerts after deployment as part of an integration effort,Deployment Support
+REQ-0118,Program Alpha,Evaluate encryption requirements for stored records during a planned update,Security Review
+REQ-0297,Program Bravo,Resolve an environment configuration issue before rollout for a new customer request,Deployment Support
+REQ-0309,Program Bravo,Investigate an application failure after release for a new customer request,Deployment Support
+REQ-0291,Program Bravo,Coordinate release scheduling across technical teams as part of an integration effort,Deployment Support
+REQ-0176,Program Bravo,Compare candidate models using F1 scores during a planned update,Model Evaluation
+REQ-0200,Program Charlie,Evaluate classifier precision and recall on test data after a technical review,Model Evaluation
+REQ-0155,Program Bravo,Prepare security evidence for an accreditation review for a new customer request,Security Review
+REQ-0303,Program Alpha,Validate container deployment readiness for a new customer request,Deployment Support
+REQ-0003,Program Charlie,Connect an application to a relational database during a planned update,Data Integration
+REQ-0116,Program Alpha,Investigate an audit logging configuration gap for a new customer request,Security Review
+REQ-0164,Program Charlie,Review false positive and false negative predictions before the next milestone,Model Evaluation
+REQ-0224,Program Alpha,Validate an experiment against acceptance criteria for a new customer request,Model Evaluation
+REQ-0121,Program Charlie,Evaluate encryption requirements for stored records before the next milestone,Security Review
+REQ-0240,Program Charlie,Validate an experiment against acceptance criteria after a technical review,Model Evaluation
+REQ-0278,Program Alpha,Validate container deployment readiness during a planned update,Deployment Support
+REQ-0128,Program Bravo,Review access control requirements for an application for a new customer request,Security Review
+REQ-0075,Program Alpha,Reconcile duplicate records in a data warehouse before the next milestone,Data Integration
+REQ-0030,Program Alpha,Reconcile duplicate records in a data warehouse for a new customer request,Data Integration
+REQ-0084,Program Charlie,Assess identity permissions for a protected data service during a planned update,Security Review
+REQ-0266,Program Alpha,Validate container deployment readiness during a planned update,Deployment Support
+REQ-0108,Program Alpha,Document security controls for authorization review for a new customer request,Security Review
+REQ-0174,Program Charlie,Compare candidate models using F1 scores before the next milestone,Model Evaluation
+REQ-0180,Program Bravo,Review confusion matrix results from the latest experiment after a technical review,Model Evaluation
+REQ-0134,Program Bravo,Document security controls for authorization review for a new customer request,Security Review
+REQ-0254,Program Bravo,Validate container deployment readiness before the next milestone,Deployment Support
+REQ-0246,Program Charlie,Coordinate release scheduling across technical teams after a technical review,Deployment Support
+REQ-0296,Program Alpha,Prepare an operational handoff checklist after a technical review,Deployment Support
+REQ-0066,Program Charlie,Build an API interface for exchanging database records as part of an integration effort,Data Integration
+REQ-0226,Program Bravo,Review false positive and false negative predictions during a planned update,Model Evaluation
+REQ-0086,Program Bravo,Document security controls for authorization review after a technical review,Security Review
+REQ-0243,Program Alpha,Prepare a deployment rollback plan for a new customer request,Deployment Support
+REQ-0160,Program Bravo,Review access control requirements for an application for a new customer request,Security Review
+REQ-0013,Program Bravo,Investigate data mapping issues between source systems for a new customer request,Data Integration
+REQ-0036,Program Bravo,Resolve a data ingestion failure in the pipeline as part of an integration effort,Data Integration
+REQ-0029,Program Bravo,Validate JSON payloads sent through an integration endpoint during a planned update,Data Integration
+REQ-0171,Program Bravo,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0143,Program Alpha,Review least privilege settings for service accounts during a planned update,Security Review
+REQ-0267,Program Bravo,Prepare a deployment rollback plan as part of an integration effort,Deployment Support
+REQ-0132,Program Alpha,Document security controls for authorization review before the next milestone,Security Review
+REQ-0210,Program Alpha,Investigate machine learning model prediction errors during a planned update,Model Evaluation
+REQ-0052,Program Bravo,Build an API interface for exchanging database records as part of an integration effort,Data Integration
+REQ-0096,Program Alpha,Assess identity permissions for a protected data service before the next milestone,Security Review
+REQ-0239,Program Alpha,Compare candidate models using F1 scores during a planned update,Model Evaluation
+REQ-0179,Program Bravo,Validate an experiment against acceptance criteria as part of an integration effort,Model Evaluation
+REQ-0251,Program Alpha,Investigate an application failure after release before the next milestone,Deployment Support
+REQ-0042,Program Charlie,Reconcile duplicate records in a data warehouse after a technical review,Data Integration
+REQ-0090,Program Bravo,Assess authentication requirements for a new interface for a new customer request,Security Review
+REQ-0247,Program Charlie,Coordinate release scheduling across technical teams for a new customer request,Deployment Support
+REQ-0137,Program Alpha,Assess authentication requirements for a new interface before the next milestone,Security Review
+REQ-0027,Program Charlie,Reconcile duplicate records in a data warehouse for a new customer request,Data Integration
+REQ-0314,Program Charlie,Resolve an environment configuration issue before rollout during a planned update,Deployment Support
+REQ-0142,Program Bravo,Review least privilege settings for service accounts as part of an integration effort,Security Review
+REQ-0228,Program Alpha,Review confusion matrix results from the latest experiment after a technical review,Model Evaluation
+REQ-0001,Program Charlie,Investigate data mapping issues between source systems during a planned update,Data Integration
+REQ-0288,Program Charlie,Prepare an operational handoff checklist for a new customer request,Deployment Support
+REQ-0275,Program Alpha,Investigate an application failure after release as part of an integration effort,Deployment Support
+REQ-0292,Program Alpha,Coordinate a software release into the test environment during a planned update,Deployment Support
+REQ-0101,Program Alpha,Review least privilege settings for service accounts for a new customer request,Security Review
+REQ-0193,Program Bravo,Review false positive and false negative predictions during a planned update,Model Evaluation
+REQ-0276,Program Bravo,Investigate an application failure after release during a planned update,Deployment Support
+REQ-0104,Program Bravo,Evaluate encryption requirements for stored records after a technical review,Security Review
+REQ-0172,Program Alpha,Validate an experiment against acceptance criteria before the next milestone,Model Evaluation
+REQ-0099,Program Alpha,Review access control requirements for an application as part of an integration effort,Security Review
+REQ-0037,Program Alpha,Reconcile duplicate records in a data warehouse for a new customer request,Data Integration
+REQ-0250,Program Alpha,Review production monitoring alerts after deployment for a new customer request,Deployment Support
+REQ-0062,Program Bravo,Validate JSON payloads sent through an integration endpoint for a new customer request,Data Integration
+REQ-0151,Program Bravo,Investigate an audit logging configuration gap for a new customer request,Security Review
+REQ-0048,Program Alpha,Resolve a data ingestion failure in the pipeline as part of an integration effort,Data Integration
+REQ-0230,Program Bravo,Review false positive and false negative predictions after a technical review,Model Evaluation
+REQ-0280,Program Charlie,Resolve an environment configuration issue before rollout during a planned update,Deployment Support
+REQ-0012,Program Bravo,Investigate data mapping issues between source systems during a planned update,Data Integration
+REQ-0317,Program Bravo,Validate container deployment readiness after a technical review,Deployment Support
+REQ-0201,Program Charlie,Evaluate classifier precision and recall on test data during a planned update,Model Evaluation
+REQ-0287,Program Charlie,Resolve an environment configuration issue before rollout for a new customer request,Deployment Support
+REQ-0028,Program Alpha,Validate JSON payloads sent through an integration endpoint for a new customer request,Data Integration
+REQ-0249,Program Alpha,Validate container deployment readiness before the next milestone,Deployment Support
+REQ-0005,Program Alpha,Build an API interface for exchanging database records during a planned update,Data Integration
+REQ-0123,Program Alpha,Prepare security evidence for an accreditation review as part of an integration effort,Security Review
+REQ-0033,Program Charlie,Configure a connector to transfer application data after a technical review,Data Integration
+REQ-0232,Program Bravo,Investigate machine learning model prediction errors for a new customer request,Model Evaluation
+REQ-0163,Program Charlie,Review false positive and false negative predictions before the next milestone,Model Evaluation
+REQ-0238,Program Alpha,Assess training data quality and possible model bias as part of an integration effort,Model Evaluation
+REQ-0284,Program Alpha,Investigate an application failure after release during a planned update,Deployment Support
+REQ-0139,Program Alpha,Investigate an audit logging configuration gap before the next milestone,Security Review
+REQ-0063,Program Charlie,Document schema changes for an external data feed after a technical review,Data Integration
+REQ-0216,Program Bravo,Investigate machine learning model prediction errors before the next milestone,Model Evaluation
+REQ-0136,Program Alpha,Assess identity permissions for a protected data service after a technical review,Security Review
+REQ-0299,Program Bravo,Prepare a deployment rollback plan before the next milestone,Deployment Support
+REQ-0129,Program Alpha,Review access control requirements for an application for a new customer request,Security Review
+REQ-0311,Program Bravo,Review production monitoring alerts after deployment before the next milestone,Deployment Support
+REQ-0009,Program Alpha,Resolve a data ingestion failure in the pipeline during a planned update,Data Integration
+REQ-0071,Program Charlie,Validate JSON payloads sent through an integration endpoint for a new customer request,Data Integration
+REQ-0283,Program Bravo,Review production monitoring alerts after deployment before the next milestone,Deployment Support
+REQ-0065,Program Bravo,Validate JSON payloads sent through an integration endpoint during a planned update,Data Integration
+REQ-0045,Program Alpha,Resolve a data ingestion failure in the pipeline for a new customer request,Data Integration
+REQ-0015,Program Alpha,Configure a connector to transfer application data as part of an integration effort,Data Integration
+REQ-0157,Program Charlie,Investigate an audit logging configuration gap after a technical review,Security Review
+REQ-0041,Program Alpha,Reconcile duplicate records in a data warehouse as part of an integration effort,Data Integration
+REQ-0306,Program Bravo,Review production monitoring alerts after deployment as part of an integration effort,Deployment Support
+REQ-0124,Program Charlie,Assess identity permissions for a protected data service during a planned update,Security Review
+REQ-0295,Program Alpha,Resolve an environment configuration issue before rollout for a new customer request,Deployment Support
+REQ-0262,Program Alpha,Validate container deployment readiness after a technical review,Deployment Support
+REQ-0217,Program Alpha,Investigate machine learning model prediction errors as part of an integration effort,Model Evaluation
+REQ-0154,Program Bravo,Evaluate encryption requirements for stored records as part of an integration effort,Security Review
+REQ-0024,Program Charlie,Resolve a data ingestion failure in the pipeline during a planned update,Data Integration
+REQ-0279,Program Charlie,Validate container deployment readiness for a new customer request,Deployment Support
+REQ-0237,Program Bravo,Assess training data quality and possible model bias for a new customer request,Model Evaluation
+REQ-0208,Program Alpha,Evaluate classifier precision and recall on test data as part of an integration effort,Model Evaluation
+REQ-0213,Program Charlie,Review false positive and false negative predictions during a planned update,Model Evaluation
+REQ-0293,Program Charlie,Coordinate a software release into the test environment for a new customer request,Deployment Support
+REQ-0252,Program Charlie,Resolve an environment configuration issue before rollout for a new customer request,Deployment Support
+REQ-0312,Program Bravo,Coordinate a software release into the test environment as part of an integration effort,Deployment Support
+REQ-0202,Program Bravo,Validate an experiment against acceptance criteria before the next milestone,Model Evaluation
+REQ-0162,Program Bravo,Investigate model drift in recent predictions after a technical review,Model Evaluation
+REQ-0044,Program Charlie,Build an API interface for exchanging database records during a planned update,Data Integration
+REQ-0218,Program Charlie,Assess training data quality and possible model bias as part of an integration effort,Model Evaluation
+REQ-0191,Program Bravo,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0260,Program Bravo,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0106,Program Charlie,Assess identity permissions for a protected data service during a planned update,Security Review
+REQ-0054,Program Alpha,Document schema changes for an external data feed for a new customer request,Data Integration
+REQ-0002,Program Alpha,Resolve a data ingestion failure in the pipeline before the next milestone,Data Integration
+REQ-0050,Program Bravo,Validate JSON payloads sent through an integration endpoint before the next milestone,Data Integration
+REQ-0081,Program Bravo,Assess authentication requirements for a new interface before the next milestone,Security Review
+REQ-0206,Program Bravo,Validate an experiment against acceptance criteria for a new customer request,Model Evaluation
+REQ-0035,Program Charlie,Connect an application to a relational database before the next milestone,Data Integration
+REQ-0264,Program Charlie,Prepare a deployment rollback plan as part of an integration effort,Deployment Support
+REQ-0092,Program Alpha,Evaluate encryption requirements for stored records before the next milestone,Security Review
+REQ-0053,Program Alpha,Configure a connector to transfer application data during a planned update,Data Integration
+REQ-0265,Program Alpha,Coordinate a software release into the test environment before the next milestone,Deployment Support
+REQ-0242,Program Alpha,Resolve an environment configuration issue before rollout after a technical review,Deployment Support
+REQ-0014,Program Charlie,Resolve a data ingestion failure in the pipeline during a planned update,Data Integration
+REQ-0089,Program Bravo,Review access control requirements for an application after a technical review,Security Review
+REQ-0274,Program Alpha,Prepare a deployment rollback plan before the next milestone,Deployment Support
+REQ-0167,Program Alpha,Assess training data quality and possible model bias before the next milestone,Model Evaluation
+REQ-0315,Program Charlie,Investigate an application failure after release after a technical review,Deployment Support
+REQ-0135,Program Alpha,Investigate an audit logging configuration gap for a new customer request,Security Review
+REQ-0308,Program Charlie,Review production monitoring alerts after deployment for a new customer request,Deployment Support
+REQ-0244,Program Bravo,Prepare an operational handoff checklist before the next milestone,Deployment Support
+REQ-0055,Program Charlie,Build an API interface for exchanging database records before the next milestone,Data Integration
+REQ-0051,Program Charlie,Connect an application to a relational database as part of an integration effort,Data Integration
+REQ-0175,Program Charlie,Review false positive and false negative predictions during a planned update,Model Evaluation
+REQ-0190,Program Alpha,Review false positive and false negative predictions after a technical review,Model Evaluation
+REQ-0319,Program Alpha,Investigate an application failure after release after a technical review,Deployment Support
+REQ-0188,Program Alpha,Review confusion matrix results from the latest experiment before the next milestone,Model Evaluation
+REQ-0170,Program Bravo,Investigate machine learning model prediction errors after a technical review,Model Evaluation
+REQ-0059,Program Alpha,Configure a connector to transfer application data as part of an integration effort,Data Integration
+REQ-0049,Program Charlie,Investigate data mapping issues between source systems for a new customer request,Data Integration
+REQ-0236,Program Bravo,Review false positive and false negative predictions before the next milestone,Model Evaluation
+REQ-0253,Program Alpha,Validate container deployment readiness during a planned update,Deployment Support
+REQ-0022,Program Bravo,Document schema changes for an external data feed before the next milestone,Data Integration
+REQ-0161,Program Charlie,Compare candidate models using F1 scores after a technical review,Model Evaluation
+REQ-0277,Program Bravo,Resolve an environment configuration issue before rollout as part of an integration effort,Deployment Support
+REQ-0192,Program Bravo,Evaluate classifier precision and recall on test data as part of an integration effort,Model Evaluation
+REQ-0294,Program Bravo,Coordinate a software release into the test environment before the next milestone,Deployment Support
+REQ-0258,Program Alpha,Investigate an application failure after release after a technical review,Deployment Support
+REQ-0150,Program Charlie,Prepare security evidence for an accreditation review during a planned update,Security Review
+REQ-0131,Program Charlie,Prepare security evidence for an accreditation review as part of an integration effort,Security Review
+REQ-0152,Program Charlie,Assess identity permissions for a protected data service for a new customer request,Security Review
+REQ-0100,Program Charlie,Prepare security evidence for an accreditation review as part of an integration effort,Security Review
+REQ-0088,Program Bravo,Review access control requirements for an application before the next milestone,Security Review
+REQ-0215,Program Alpha,Assess training data quality and possible model bias for a new customer request,Model Evaluation
+REQ-0122,Program Charlie,Assess authentication requirements for a new interface as part of an integration effort,Security Review
+REQ-0320,Program Bravo,Investigate an application failure after release during a planned update,Deployment Support
+REQ-0021,Program Charlie,Resolve a data ingestion failure in the pipeline after a technical review,Data Integration
+REQ-0189,Program Bravo,Validate an experiment against acceptance criteria after a technical review,Model Evaluation
+REQ-0072,Program Charlie,Configure a connector to transfer application data before the next milestone,Data Integration
+REQ-0107,Program Bravo,Investigate an audit logging configuration gap as part of an integration effort,Security Review
+REQ-0271,Program Charlie,Coordinate a software release into the test environment as part of an integration effort,Deployment Support
+REQ-0103,Program Charlie,Prepare security evidence for an accreditation review before the next milestone,Security Review
